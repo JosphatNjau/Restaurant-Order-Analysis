@@ -30,3 +30,8 @@ The dataset contains a quarter's worth of orders from an international cuisine r
 - [Customer behavior analysis](Analyze_Customer_behavior.sql)
 ## Insights and Recommendations
 High-spend customers show a strong preference for Italian dishes, even though these items are not the most popular overall. The top 5 highest spend orders tend to spend a lot on expensive Italian foods. We should keep Italian dishes on the menu as retaining these dishes can help maintain and attract high-value customers.
+## Files in the repository
+- [create_restaurant_db.sql](create_restaurant_db.sql): This is the restaurant database.
+- [Analyze_Customer_behavior.sql](Analyze_Customer_behavior.sql): SQL file containing the code to analyze customer behavior.
+- [Menu_items.sql](Menu_items.sql): SQL file containing the code to explore menu items table.
+- [Order_details.sql](Order_details.sql): SQL file containing the code to explore order details table.
